@@ -1,4 +1,4 @@
-# Project Aurora - Model Inputs & Priors
+# Tesla Case Competition - Model Inputs & Priors
 
 This document describes how model inputs are configured in the simulation, comparing theoretical priors with data-driven Bayesian priors.
 
